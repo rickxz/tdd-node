@@ -7,8 +7,6 @@ $ yarn install
 $ yarn test
 ```
 
-- To access Adminer, go to http://localhost:8080/
-
 #
 
 ## ⚙️ Set up environment variables (.env)
